@@ -527,12 +527,12 @@ footer {
 }
 
 .subscribe button {
-/*     margin-top: 10px; */
+    margin-top: 10px;
     background-color: #509e2f;
     /* Customize the button background color */
     color: #fff;
     /* Customize the button text color */
-    padding: 10px;
+    padding: 5px 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
