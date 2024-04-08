@@ -539,6 +539,10 @@ footer {
     height: 5vh;
 }
 
+#subcribeButton {
+    padding 10px;
+}
+
 .para {
     line-height: 1.7em;
 }
