@@ -527,7 +527,7 @@ footer {
 }
 
 .subscribe button {
-    margin-top: 10px;
+/*     margin-top: 10px; */
     background-color: #509e2f;
     /* Customize the button background color */
     color: #fff;
